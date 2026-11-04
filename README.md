@@ -118,17 +118,20 @@ Brazilian_Ecommerce_Analytics/
 - Average freight share of combined product and freight value: approximately 30.84%.
 - Around 55.48% of delivered orders had freight costs exceeding 20% of product value.
 
-## Dashboards
+## 📊 Power BI Dashboard
 
-The Power BI report contains two analytical pages:
+The interactive Power BI dashboard presents sales performance, customer insights, payment behaviour and customer satisfaction across two pages.
 
-**1. Executive Overview**
-- Revenue KPIs
-- Monthly product revenue trends
-- Top 10 product categories by revenue
-- Delivered orders by customer state
-- Customer review score distribution
+### 1. Executive Overview
 
+![Executive Overview](Visualizations/Dashboard_Screenshots/executive_overview.png)
+
+### 2. Payments & Customer Insights
+
+![Payments and Customer Insights](Visualizations/Dashboard_Screenshots/payments_customer_insights.png)
+
+**Download the Power BI dashboard:**  
+[Brazilian_Ecommerce_Analytics.pbix](Brazilian_Ecommerce_Analytics.pbix)
 **2. Payments & Customer Insights**
 - Payment value by payment method
 - Customer review analysis over time
