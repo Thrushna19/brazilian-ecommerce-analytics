@@ -1,0 +1,12 @@
+Dataset/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.tmp
+*.bak
+*.pbix~
+.DS_Store
+Thumbs.db
