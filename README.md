@@ -129,6 +129,22 @@ The interactive Power BI dashboard presents sales performance, customer insights
 ### 2. Payments & Customer Insights
 
 This page explores:
+## Dashboards
+
+The Power BI report contains two analytical pages:
+
+**1. Executive Overview**
+- Revenue KPIs
+- Monthly product revenue trends
+- Top 10 product categories by revenue
+- Delivered orders by customer state
+- Customer review score distribution
+
+![Executive Overview](Visualizations/Dashboard_Screenshots/executive_overview.png)
+
+![Payments and Customer Insights](Visualizations/Dashboard_Screenshots/payments_customer_insights.png)
+
+**2. Payments & Customer Insights**
 - Payment value by payment method
 - Customer review analysis over time
 - Orders by payment method
