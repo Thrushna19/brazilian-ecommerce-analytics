@@ -128,15 +128,16 @@ The interactive Power BI dashboard presents sales performance, customer insights
 
 ### 2. Payments & Customer Insights
 
-![Payments and Customer Insights](Visualizations/Dashboard_Screenshots/payments_customer_insights.png)
-
-**Download the Power BI dashboard:**  
-[Brazilian_Ecommerce_Analytics.pbix](Brazilian_Ecommerce_Analytics.pbix)
-**2. Payments & Customer Insights**
+This page explores:
 - Payment value by payment method
 - Customer review analysis over time
 - Orders by payment method
 - Average payment instalments by payment method
+
+![Payments and Customer Insights](Visualizations/Dashboard_Screenshots/payments_customer_insights.png)
+
+**Download the Power BI dashboard:**  
+[Brazilian_Ecommerce_Analytics.pbix](Brazilian_Ecommerce_Analytics.pbix)
 
 ## Methodology
 
